@@ -1,0 +1,13 @@
+.App {
+  margin: auto;
+  width: 50%;
+  /* border: 2px solid red; */
+  padding: 10px;
+  padding-top: 10px;
+  background-color: aquamarine;
+  
+}
+/* .App button:hover {
+  color: yellow;
+  background-color: red;
+} */
